@@ -1,1 +1,2 @@
 # Northwind-Traders
+Imported and explored the Northwind Traders dataset in Power BI to understand its structure and key details. Cleaned the data by removing duplicates, handling missing values, and fixing data errors. Created table relationships, basic calculations, charts, and KPI cards to analyze business data. Built an interactive dashboard and identified useful insights about sales, products, customers, and business performance.
